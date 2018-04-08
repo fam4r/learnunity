@@ -14,8 +14,7 @@ Learn Unity 4 for iOS Game Development is now available!
 * [Barnes and Noble](http://www.barnesandnoble.com/w/learn-unity-4-for-ios-game-development-philip-chu/1113931582?ean=9781430248750) (print and nook book and in stores)
 * [Goodreads](http://www.goodreads.com/book/show/17063557-learn-unity-4-for-ios-game-development) (links to online bookstores)
 * [Google Books](http://books.google.com/books?id=TsC_MgEACAAJ) (links to online bookstores)
-* [iBookstore](
-https://itunes.apple.com/us/book/learn-unity-4-for-ios-game/id670921450?mt=11) (iBook)
+* [iBookstore](https://itunes.apple.com/us/book/learn-unity-4-for-ios-game/id670921450?mt=11) (iBook)
 * [Indigo](http://www.chapters.indigo.ca/books/item/1430248750-item.html?s_campaign=aff-001-1944216-Goodreads%2C+Inc-ProductCatalog-10408997-2227948) (Canada) and [Kobo](http://store.kobobooks.com/en-us/books/Learn-Unity-4-for-iOS/EpJtoFLYq0WN3aCQLeqGRA)
 * [Langton Info](http://www.langtoninfo.com/showitem.aspx?isbn=1430248750) (UK)
 * [Powell's](http://www.powells.com/biblio/61-9781430248750-0)
@@ -44,13 +43,29 @@ Page numbers correspond to the print version. Links are provided to the online U
 
 * page xxi: Snow Crash should be italicized. And that's by Neal Stephenson, by the way (<em>The Diamond Age</em> is also highly recommended).
 
+Author blogs:
+- [Fugutalk](https://fugutalk.com/)
+- [Technicat](https://technicat.com/)
+- [Twitter](https://twitter.com/fugugames)
+- [Github](https://github.com/technicat)
+
+Pointers:
+- [Fugugames](https://fugugames.com/)
+- [Hyperbowl3D](https://hyperbowl3d.com/)
+
+### About the Technical Reviewer
+
+- [Gayasoft](https://gayasoft.net/)
+- [Popper](https://popper.org/)
+
 ### Introduction
 
 Explore Further
 
 * [Beginning 3D Game Development with Unity](http://3dadventurous.com)
-* [Unity 3.x Game Development Essentials] (http://www.packtpub.com/unity-3-x-game-development-essentials)
-* [Game Development for iOS with Unity3D] (http://www.crcpress.com/product/isbn/9781439892190)
+* [Unity 3.x Game Development Essentials](http://www.packtpub.com/unity-3-x-game-development-essentials)
+* [Game Development for iOS with Unity3D](http://www.crcpress.com/product/isbn/9781439892190)
+- [Gamasutra Blogs](https://gamasutra.com/)
 
 A full list of Unity books is available at [Games from Scratch](http://www.gamefromscratch.com/page/Unity-Book-Roundup.aspx)
 
@@ -63,6 +78,10 @@ Download and install Unity, activate the license, report bugs, get help.
 * page 5: "Scripts.unityPackage" is one word
 * page 7: Starting with Unity 4.2, he free version of Unity now includes Unity iOS Basic (and Unity Android Basic)
 * page 13: "The 3D game engines are very complicated" should read "3D game engines are very complicated"
+
+Explore Further
+
+- [Unity video archive](https://video.unity3d.com/)
 
 ### Chapter 2 - A Unity Tour
 
@@ -77,20 +96,24 @@ Use the Angry Bots demo to explore the Unity Editor.
 * page 60: Starting with Unity 4.2, the Editor has integrated Perforce support and an API for supporting other version control systems.
 
 Explore Further
+
 * [Unity Manual](http://docs.unity3d.com/Documentation/Manual/index.html)
  * [Unity Basics](http://docs.unity3d.com/Documentation/Manual/UnityBasics.html)
  * [Learning the Interface](http://docs.unity3d.com/Documentation/Manual/LearningtheInterface.html)
+- Version control
+  - [Bitbucket](https://bitbucket.org/)
+- [YAML](https://yaml.org)
 
 ### Chapter 3 - Making a Scene
 
-Create a new Unity scene, add primitive models, textures, lighting, and camera movement. Import assets from Standard Assets, the Unity Asset Store, and the file system. This chapter uses the [Free ArtskillZ Texture Pack 01](https://www.assetstore.unity3d.com/#/content/351) from [ArtskillZ](http://artskillz.net)..
+Create a new Unity scene, add primitive models, textures, lighting, and camera movement. Import assets from Standard Assets, the [Unity Asset Store](https://assetstore.unity.com/), and the file system. This chapter uses the [Free ArtskillZ Texture Pack 01](https://www.assetstore.unity3d.com/#/content/351) from [ArtskillZ](http://artskillz.net)..
 
 * page 63: "Assets that were installed with Unity in the previous chapter" should read "Assets that were installed with Unity in Chapter 1
 * page 67: "Script Reference" should read "Scripting Reference"
 * page 109: "Building a Scene" should read "Building Scenes"
 
 Explore Further
-* [Unity Manual](http://docs.unity3d.com/Documentation/Manual/index.html)
+* [Unity Manual](http://docs.unity3d.com/)
  * [Creating Scenes](http://docs.unity3d.com/Documentation/Manual/CreatingScenes.html)
  * [Building Scenes](http://docs.unity3d.com/Documentation/Manual/BuildingScenes.html)
  * [Asset Import and Creation](http://docs.unity3d.com/Documentation/Manual/AssetImportandCreation.html)
@@ -103,6 +126,13 @@ Create a script (JavaScript), spin the cube, make prefabs, edit and debug script
 Explore Further
 * [Scripting Reference](http://docs.unity3d.com/Documentation/ScriptReference/index.html)
  * [Runtime Classes](http://docs.unity3d.com/Documentation/ScriptReference/20_class_hierarchy.html)
+- [iTween animations](https://itween.pixelplacement.com/)
+- [HOTween](https://holoville.com/hotween/)
+- [GoKit](https://github.com/prime31/GoKit)
+- [C# Documentation](https://msdn.microsoft.com/)
+- [Mono Develop](https://mono-project.org/)
+- [Boo Unity Language](https://boo.codehaus.org/)
+- [CodingHorror](https://codinghorror.com/blog/2012/07/new-programming-jargon.html)
 
 ### Chapter 5 - Let's Dance! Animation and Sound
 
@@ -143,6 +173,7 @@ Explore Further
  * [Rigidbody.AddForceAtPosition](http://docs.unity3d.com/Documentation/ScriptReference/Rigidbody.AddForceAtPosition.html)
  * [Input](http://docs.unity3d.com/Documentation/ScriptReference/Input.html)
  * [Input.GetAxis](http://docs.unity3d.com/Documentation/ScriptReference/Input.GetAxis.html)
+- [nVidia PhysX](https://developer.nvidia.com/physx)
 
 ### Chapter 7 - Let's Bowl! Advanced Physics
 
@@ -155,6 +186,8 @@ Explore Further
  * [Object.Instantiate](http://docs.unity3d.com/Documentation/ScriptReference/Object.Instantiate.html)
  * [MonoBehaviour.Awake](http://docs.unity3d.com/Documentation/ScriptReference/MonoBehaviour.Awake.html)
  * [Rigidbody](http://docs.unity3d.com/Documentation/ScriptReference/Rigidbody.html)
+- [Turbosquid - 3D model marketplace](https://turbosquid.com/)
+- [FreeSound - free audio database](https://freesound.org/)
 
 ### Chapter 8 - Let's Play! Scripting the Game
 
@@ -169,6 +202,10 @@ Explore Further
  * [Coroutine](http://docs.unity3d.com/Documentation/ScriptReference/Coroutine.html)
  * [WaitForSeconds](http://docs.unity3d.com/Documentation/ScriptReference/WaitForSeconds.html)
  * [YieldInstruction](http://docs.unity3d.com/Documentation/ScriptReference/YieldInstruction.html)
+- [Huton Games](https://hutongames.com/)
+- [FreeSDK](https://freesdk.dev.net/)
+- [Blue Mars](https://create.bluemars.com/wiki)
+- [Second Life](https://wiki.secondlife.com/)
 
 ### Chapter 9 - The Game GUI
 
@@ -201,6 +238,10 @@ Problems introduced with Xcode 5 (hopefully temporary):
 
 * Build and Run in the Unity Editor fails to start Xcode 5. Workaround: start Xcode manually first, or double-click the xcodeproj file to bring up Xcode 5 manually, then click the Run/Play button.
 
+Explore Further
+
+- [Xcode](https://developer.apple.com/xcode)
+
 ### Chapter 11 - Building For Real: Hardware Testing and App Submission
 
 Set up devices, provisioning profiles and app descriptions on the Provisioning Portal and iTunes Connect. Build Angry Bots for test devices and for submission to the App Store.
@@ -210,6 +251,10 @@ Xcode no longer displays provisioning profiiles, and it is no longer necessary (
 Problems introduced with Xcode 5 (hopefully temporary):
 
 * In Xcode 5, Archive may complain there is no matching provisioning profile for the test device. Workaround: detach the test device before invoking Archive.
+
+Explore Further
+
+- [Apple Developer](https://developer.apple.com/)
 
 ### Chapter 12 - Presentation: Icons and Splash Screens
 
@@ -265,6 +310,7 @@ Explore Further
 * [Asset Store](http://assetstore.unity3d.com/)
 * [Finger Gestures](http://fatalfrog.com/)
 * [Prime31 plugins](http://prime31.com/)
+- [Ion Audio](https://ionaudio.com/)
 
 ### Chapter 14 - Game Center: Leaderboards and Achievements
 
@@ -275,6 +321,8 @@ Explore Further
 * [Scripting Reference](http://docs.unity3d.com/Documentation/ScriptReference/index.html)
  * [Social](http://docs.unity3d.com/Documentation/ScriptReference/Social.html)
  * [GameCenterPlatform](http://docs.unity3d.com/Documentation/ScriptReference/GameCenterPlatform.html)
+- [PlayHaven](https://playhaven.com/)
+- [Swarm](https://swarmconnect.com/)
 
 
 ### Chapter 15 - iAd: Banner and Interstitial Ads
@@ -300,6 +348,7 @@ Explore Further
 * [iOS Developer Library](http://developer.apple.com/library/ios)
  * [ADBannerView](http://developer.apple.com/library/ios/#documentation/UserExperience/Reference/ADBannerView_Ref/Reference/Reference.html)
  * [ADInterstitialAd](http://developer.apple.com/library/ios/#documentation/iAd/Reference/ADInterstitialAd_Ref/Introduction/Introduction.html)
+- [Kiip](https://kiip.com/), also on [github](https://github.com/kiip)
 
 ### Chapter 16 - Optimization
 
@@ -355,6 +404,16 @@ Tracking Apps
 * [Appviz](http://appviz.com/)
 * [AppAnnie](http://appannie.com/)
 * [AppFigures](http://appfigures.com/)
+
+Explore further
+
+- [Touch Arcade](https://toucharcade.com/)
+- [AppGiveaway](https://appgiveaway.com/)
+- [Unity 3D Work](https://unity3dwork.com/)
+- [ODesk](https://odesk.com/)
+- [AppTank](https://apptank.com/)
+- [TheyMakeApps](https://theymakeapps.com/)
+
 
 ### Back Cover
 
